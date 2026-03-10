@@ -122,10 +122,9 @@ healthcare-management-database/
 │   └── relational_schema.png
 │
 ├── sql/
-│   ├── schema.sql
-│   ├── constraints.sql
-│   ├── indexes.sql
-│   └── seed_data.sql
+│   ├── 01_schema.sql
+│   ├── 02_seed_data.sql
+│   └── 03_validation_queries.sql
 │
 ├── queries/
 │   ├── operational_queries.sql
